@@ -7,5 +7,6 @@
 * enjoy the weirdly artistic chaos :D
 
 feel free to use this script for anything you may need
+
 ps: the fast noise script is not mine i believe this is the original:
 https://github.com/Auburn/FastNoise_CSharp
