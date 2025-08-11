@@ -1,5 +1,7 @@
 # noise-flow-field
 
+note to myself later: update this readme to include some images and an actual description of what this even is 
+
 ## instructions:
 * create an empty GameObject
 * place script onto the object
